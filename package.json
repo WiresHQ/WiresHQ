@@ -1,0 +1,13 @@
+{
+  "name": "wireshq",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WiresHQ: From the wire to the full story. Zero-dependency static news site.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node build.js",
+    "preview": "node build.js && node serve.js"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "siteName": "WiresHQ",
+  "tagline": "From the wire to the full story",
+  "taglineShort": "The full story",
+  "taglineAr": "من الخبر العاجل إلى القصة الكاملة",
+  "description": "WiresHQ brings you the hottest news fast: sports, entertainment, celebrity, tech & AI and finance, with the full story behind every video.",
+  "descriptionAr": "يقدّم WiresHQ أهم الأخبار بسرعة: الرياضة والترفيه والمشاهير والتقنية والذكاء الاصطناعي والاقتصاد، مع القصة الكاملة وراء كل فيديو.",
+  "siteUrl": "https://wireshq.com",
+  "lang": "en",
+  "timezone": "+00:00",
+  "publisher": "WiresHQ",
+  "email": "newsroom@wireshq.com",
+  "themeColor": {
+    "light": "#F2F1ED",
+    "dark": "#141824"
+  },
+  "social": {
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "instagram": "",
+    "facebook": ""
+  },
+  "adsenseClient": "",
+  "adSlot": "",
+  "adSlots": {
+    "article": "",
+    "grid": "",
+    "side": ""
+  }
+}

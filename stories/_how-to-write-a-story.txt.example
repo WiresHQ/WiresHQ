@@ -1,0 +1,13 @@
+title: Your headline goes here
+slug: short-link-name
+category: Sports
+labels: football, league
+date: 2026-10-06 19:40
+video: https://www.youtube.com/shorts/VIDEO_ID
+---
+First paragraph. It becomes the summary on cards and in Google results.
+
+Second paragraph. Leave a blank line between paragraphs.
+
+HOW TO USE: copy this file, rename it to something.txt (remove ".example"), edit it, delete these instructions.
+Files that do not end in .txt are ignored by the site builder.
