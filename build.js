@@ -327,7 +327,7 @@ function render(s) {
 // ---------- page frame ----------
 const pageHref = (slug, L) => PAGES[L][slug] ? u(L, slug) : PAGES.en[slug] ? u('en', slug) : '';
 const navLinks = (L, active) => CATS.map(c => `<a href="${u(L, 'c', c.slug)}"${c.slug === active ? ' aria-current="page"' : ''}>${esc(c[L])}</a>`).join('\n');
-const logo = L => `<a class="logo" href="${u(L)}" aria-label="${esc(cfg.siteName)}"><svg class="logo-wordmark" viewBox="0 10 330 65" aria-hidden="true"><use href="#whq-wordmark"/></svg></a>`;
+const logo = L => `<a class="logo" href="${u(L)}" aria-label="${esc(cfg.siteName)}"><svg class="logo-wordmark" viewBox="0 0 330 65" aria-hidden="true"><use href="#whq-wordmark"/></svg></a>`;
 
 const tickerFor = L => {
   const items = ed[L].filter(s => (s.flags.live || s.flags.breaking) && s.date.ms <= NOW && s.date.ms >= NOW - 48 * 3600e3).slice(0, 6);
