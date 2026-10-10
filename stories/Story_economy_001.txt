@@ -1,0 +1,18 @@
+title: Bond Sell-Off: Treasury and Gilt Yields Hit Multi-Decade Highs, and What It Means for Your Mortgage
+slug: bond-sell-off-mortgage-rates-yields
+category: Economy
+labels: bond sell-off, mortgage rates, Treasury yields, gilt yields, Federal Reserve, Bank of England, UK Budget, 10-year Treasury yield
+date: 2026-10-10 17:38
+video: https://youtube.com/shorts/uDFexbVVpUQ?feature=share
+---
+Bond yields hit multi-decade highs in the US and UK this week, and mortgage rates are following. Here is what the bond sell-off could mean for your home loan.
+
+A global sell-off in government bonds pushed borrowing costs to levels not seen in decades this week. On Wednesday 7 October the US 10-year Treasury yield reached about 5.36%, its highest since April 2002, and the 30-year Treasury yield touched about 5.73%, its highest since May 2002. In the UK, the 30-year gilt yield hit about 6.04% the same day, its highest since January 1998, and the 10-year gilt yield touched about 5.53% on Thursday, its highest since July 2007.
+
+A bond yield is the interest a government pays to borrow, and yields rise when bond prices fall. That matters for households because lenders use them as a benchmark. In the US, 30-year mortgages are priced off the 10-year Treasury yield, and Freddie Mac reported that the average 30-year fixed rate rose to 7.40% on 8 October, the highest since November 2023 and the seventh weekly rise in a row. A year earlier it was 6.30%. In the UK, lenders price fixed-rate deals off swap rates, which follow gilt yields. Moneyfacts data from 5 October put the average two-year fixed rate at 5.98% and the average five-year fixed rate at 6.00%, the highest five-year average since September 2023.
+
+Central banks are part of the story. The Federal Reserve raised its target range to 3.75% to 4.00% on 16 September, its first rise since July 2023. Minutes published on 7 October showed most officials expect another increase by the end of the year, and Fed Governor Christopher Waller said on 8 October that he expects additional hikes if the data come in as expected. In the UK, the Bank of England held Bank Rate at 3.75% on 17 September by a 6 to 3 vote, and Governor Andrew Bailey said a rise becomes more likely the longer energy price volatility lasts. Analysts point to oil prices, inflation worries and government debt supply as possible drivers. Yields eased by Friday's close but remain near multi-decade highs.
+
+Several dates could move the market again. US September inflation data is due on Wednesday 14 October. On Wednesday 28 October the UK Budget, Chancellor John Healey's first, lands on the same day as the Federal Reserve decision, and the Bank of England announces its next decision on Thursday 5 November. Market-implied odds of rate moves are forecasts, not facts. This article is news and education, not financial advice.
+
+Watch the short video for a quick explainer on what the bond sell-off means for borrowers in the US and the UK.
